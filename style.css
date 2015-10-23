@@ -1,7 +1,19 @@
 body {
-	background-color: GhostWhite;
+    background-color: GhostWhite;
 }
 
 img {
-	height: 100px;
+    height: 250px;
+    border-radius: 50px;
+    margin: auto;
+    display: block;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#links {
+    text-align: center;
 }
