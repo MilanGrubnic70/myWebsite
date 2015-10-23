@@ -4,14 +4,20 @@ body {
 
 img {
     height: 200px;
-    border-radius: 50px;
     margin: auto;
-    display: block;
+    display: inline;
 }
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+}
+
+#icon {
+    height: 250px;
+    border-radius: 100%;
+    margin: auto;
+    display: block;
 }
 
 #links {
@@ -23,11 +29,7 @@ h1 {
     text-align: center;
 }
 
-#schools img {
-    display: inline;
-}
-
 #dbc {
-    width: 300px;
-    height: 225px;
+    width: 275px;
+    height: 200px;
 }
