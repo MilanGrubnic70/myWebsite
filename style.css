@@ -51,9 +51,7 @@ h1 {
     height: 140px;
 }
 
-document.ready(){
-
-}
+document.ready() {}
 
 #body_holder {
     display: none;
