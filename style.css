@@ -50,3 +50,11 @@ h1 {
     width: 230px;
     height: 140px;
 }
+
+document.ready(){
+
+}
+
+#body_holder {
+    display: none;
+}
